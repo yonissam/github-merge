@@ -1,4 +1,4 @@
 name: sisay
 id: 5
-role: qa
+role: developer
 age: 35
